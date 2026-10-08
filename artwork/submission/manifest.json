@@ -1,0 +1,36 @@
+[
+  {
+    "source": "whale-nb21-keyframe.png",
+    "source_sha256": "374a73065da413c2a4fa5f03937076973e1665f36202e30ea0cd65d1bb4eafd1",
+    "original_size": [
+      1024,
+      1024
+    ],
+    "output": "whale-nb21-keyframe-64.png",
+    "size": [
+      64,
+      64
+    ],
+    "bytes": 5376,
+    "center_crop": false,
+    "resize": "nearest",
+    "transparent_background": "black"
+  },
+  {
+    "source": "whale-pro-keyframe.png",
+    "source_sha256": "712c9e4ea24b9bfa453aeedc0b2d5359428691be935c5cbaa90fcad0a08a7767",
+    "original_size": [
+      1024,
+      1024
+    ],
+    "output": "whale-pro-keyframe-64.png",
+    "size": [
+      64,
+      64
+    ],
+    "bytes": 5675,
+    "center_crop": false,
+    "resize": "nearest",
+    "transparent_background": "black"
+  }
+]

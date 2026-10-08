@@ -1,0 +1,7 @@
+Create a square pixel-art illustration of [YOUR SUBJECT DOING SOMETHING].
+This will be reduced to a real 64 by 64 pixel LED matrix.
+Use one large, instantly recognizable subject, a bold silhouette, a simple dark
+background, and a small palette of bright contrasting colors. Use chunky pixel
+shapes and crisp edges. Keep the focal subject comfortably inside the frame.
+Avoid tiny details, small text, watermarks, borders, display mockups, and photos
+of screens. Output only the artwork, filling a square 1:1 canvas.

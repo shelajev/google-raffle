@@ -1,0 +1,10 @@
+Create a square pixel-art keyframe for a funny 64×64 LED animation called
+"Forbidden Fruit". A cheeky little robot in sunglasses is carrying an oversized
+bright yellow banana toward a literal firewall: a small brick archway crowned
+with cute stylized flames. A friendly round security scanner guards the arch.
+The joke is that a banana looks suspicious to an over-serious machine.
+Make the banana and robot instantly readable. Wholesome mischievous cartoon
+humor, no injury, threatening behavior, sexual imagery, or hateful symbols.
+Bold silhouette, chunky pixels, true-black #000000 background, 10–14 saturated colors.
+Leave breathing room for movement. No lettering, borders, watermark, gradients,
+or display mockup. Output only the square 1:1 artwork.

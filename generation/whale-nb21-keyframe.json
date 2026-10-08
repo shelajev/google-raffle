@@ -1,0 +1,28 @@
+{
+  "provider": "Google Cloud",
+  "model": "gemini-nano-banana-2.1",
+  "created_at": "2026-10-08T10:21:56.489794+00:00",
+  "prompt": "Create a square pixel-art keyframe for a premium 64\u00d764 LED animation called\n\"Ship It\". A charismatic bright blue whale carries a tidy stack of colorful\nshipping containers on its back, cruising through a midnight ocean. One tiny\nyellow rubber duck captain stands on the highest container. A crescent moon,\nbold cyan wave shapes, and a few stars. Playful Docker-inspired developer humor.\nThe whale dominates the composition, with a clear face and readable silhouette.\nChunky deliberate pixels, 10\u201314 colors, pure true-black #000000 background,\nstrong contrast. About 65\u201380% negative space; a compact but readable whale.\nContainer accents in Google blue, red, yellow and green link the scene to the\nconference ecosystem. This is playful fan art, not an official sponsor mark.\nFlat front/side view, no perspective distortion. No text, tiny details, borders,\nwatermarks, gradients, or image of an actual display. Artwork only, 1:1 square.\n",
+  "mime_type": "image/png",
+  "output": "whale-nb21-keyframe.png",
+  "response_id": "rG7HapTQFbezxN8P3OKh0AY",
+  "usage": {
+    "promptTokenCount": 223,
+    "candidatesTokenCount": 1120,
+    "totalTokenCount": 1343,
+    "trafficType": "ON_DEMAND",
+    "promptTokensDetails": [
+      {
+        "modality": "TEXT",
+        "tokenCount": 223
+      }
+    ],
+    "candidatesTokensDetails": [
+      {
+        "modality": "IMAGE",
+        "tokenCount": 1120
+      }
+    ]
+  },
+  "text": []
+}

@@ -1,0 +1,10 @@
+.venv/
+vendor/
+__pycache__/
+.DS_Store
+.env
+artwork/raw/*
+!artwork/raw/.gitkeep
+!artwork/raw/whale-pro-keyframe.png
+PROJECT_NOTES.md
+artwork/layers/google-cloud-logo.png

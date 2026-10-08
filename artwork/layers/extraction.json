@@ -1,0 +1,17 @@
+{
+  "source": "whale-pro-keyframe.png",
+  "hero_bounds": [
+    61,
+    112,
+    922,
+    810
+  ],
+  "cargo_bounds": [
+    338,
+    296,
+    472,
+    369
+  ],
+  "scale": 0.04994192799070848,
+  "motion": "60 frames; whale bob, stars, waves, cargo orbit"
+}

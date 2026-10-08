@@ -1,0 +1,4 @@
+Revise this image for readability on a 64 by 64 pixel LED matrix.
+Preserve the subject and composition. Simplify small details, enlarge the main
+subject, strengthen its silhouette, increase contrast against the background,
+and use larger blocks of color. Keep the output square with no text or borders.

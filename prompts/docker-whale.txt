@@ -1,0 +1,12 @@
+Create a square pixel-art keyframe for a premium 64×64 LED animation called
+"Ship It". A charismatic bright blue whale carries a tidy stack of colorful
+shipping containers on its back, cruising through a midnight ocean. One tiny
+yellow rubber duck captain stands on the highest container. A crescent moon,
+bold cyan wave shapes, and a few stars. Playful Docker-inspired developer humor.
+The whale dominates the composition, with a clear face and readable silhouette.
+Chunky deliberate pixels, 10–14 colors, pure true-black #000000 background,
+strong contrast. About 65–80% negative space; a compact but readable whale.
+Container accents in Google blue, red, yellow and green link the scene to the
+conference ecosystem. This is playful fan art, not an official sponsor mark.
+Flat front/side view, no perspective distortion. No text, tiny details, borders,
+watermarks, gradients, or image of an actual display. Artwork only, 1:1 square.
