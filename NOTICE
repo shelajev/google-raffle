@@ -1,0 +1,22 @@
+Ship It — google-raffle
+Copyright 2026 google-raffle contributors
+
+Original project code, documentation, prompts, and artwork are made available
+under the Apache License, Version 2.0, to the extent the contributors hold
+licensable rights in those materials.
+
+Source artwork was generated using Google Nano Banana models. The selected
+animation uses Nano Banana Pro (gemini-3-pro-image). Exact generation prompts
+and model records are included in the repository.
+
+Jixoo by Guillaume Laforge is an optional external dependency, licensed under
+Apache License 2.0. Its source and binaries are not included in this repository.
+The LICENSE text was copied verbatim from Jixoo's LICENSE file.
+https://github.com/glaforge/jixoo
+
+Pillow is an external dependency and retains its own license and notices.
+See THIRD_PARTY.md for attribution and upstream license links.
+
+Docker, Google, Google Cloud, Gemini, and Devoxx names and marks belong to their
+respective owners. This license grants no rights to those trademarks and does
+not imply endorsement or affiliation.

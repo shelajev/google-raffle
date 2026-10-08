@@ -1,4 +1,6 @@
 #!/usr/bin/env python3
+# SPDX-License-Identifier: Apache-2.0
+# Copyright 2026 google-raffle contributors
 """Encode square animation frames or a regular sprite sheet as a looping LED GIF."""
 import argparse
 import hashlib

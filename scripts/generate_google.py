@@ -1,4 +1,6 @@
 #!/usr/bin/env python3
+# SPDX-License-Identifier: Apache-2.0
+# Copyright 2026 google-raffle contributors
 """Generate Nano Banana artwork via Google Cloud, using existing gcloud login."""
 import argparse
 import base64

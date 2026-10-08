@@ -78,3 +78,12 @@ Upload [ship-it-pro-64.gif](artwork/submission/ship-it-pro-64.gif) and paste thi
 The site accepts up to three square visuals per entry, at most 5 MB each. A replacement submission overrides the active entry; the frontend reports a maximum of five submissions per day. Check the live site for current availability and terms.
 
 Created with Google Nano Banana artwork and local animation code. Docker-inspired fan art; this project is not an official Docker, Google, or Devoxx project.
+
+## License and contributions
+
+Original project materials are available under [Apache License 2.0](LICENSE),
+to the extent the contributors hold licensable rights. You can use, modify,
+and redistribute them under that license's terms. The license text matches
+Jixoo's LICENSE verbatim. External dependencies retain their own licenses.
+See [NOTICE](NOTICE), [third-party attribution](THIRD_PARTY.md), and
+[contribution instructions](CONTRIBUTING.md). Trademark rights are not granted.

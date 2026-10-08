@@ -1,4 +1,6 @@
 #!/usr/bin/env python3
+# SPDX-License-Identifier: Apache-2.0
+# Copyright 2026 google-raffle contributors
 """Animate the Nano Banana Pro keyframe using deterministic native-grid layers."""
 import json
 import math

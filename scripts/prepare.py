@@ -1,4 +1,6 @@
 #!/usr/bin/env python3
+# SPDX-License-Identifier: Apache-2.0
+# Copyright 2026 google-raffle contributors
 """Prepare up to three static images for the Devoxx LED raffle."""
 import argparse
 import hashlib
